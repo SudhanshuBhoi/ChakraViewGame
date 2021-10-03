@@ -1,0 +1,355 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="595" height="595" viewBox="0 0 595 595">
+  <defs>
+    <style>
+      .cls-1, .cls-11, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-7 {
+        stroke: #000;
+        stroke-width: 2px;
+      }
+
+      .cls-2, .cls-7 {
+        fill: none;
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-Web_1920_1);
+      }
+
+      .cls-4 {
+        stroke: #707070;
+        opacity: 0.95;
+      }
+
+      .cls-5 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-6 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-8 {
+        clip-path: url(#clip-path-3);
+      }
+
+      .cls-9 {
+        clip-path: url(#clip-path-4);
+      }
+
+      .cls-10 {
+        stroke: none;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_3" data-name="Rectangle 3" class="cls-1" width="516" height="516" transform="translate(476 230)"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect class="cls-2" width="516" height="516"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect class="cls-2" width="172" height="516"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect class="cls-2" width="172" height="621"/>
+    </clipPath>
+    <clipPath id="clip-Web_1920_1">
+      <rect width="595" height="595"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_1" data-name="Web 1920 – 1" class="cls-3">
+    <rect class="cls-11" width="595" height="595"/>
+    <g id="Rectangle_4" data-name="Rectangle 4" class="cls-4">
+      <rect class="cls-10" width="595" height="595"/>
+      <rect class="cls-2" x="0.5" y="0.5" width="594" height="594"/>
+    </g>
+    <g id="Mask_Group_1" data-name="Mask Group 1" class="cls-5" transform="translate(-437 -191)">
+      <g id="Group_1" data-name="Group 1">
+        <g id="Repeat_Grid_2" data-name="Repeat Grid 2" class="cls-6" transform="translate(476 230)">
+          <g transform="translate(-476 -230)">
+            <g id="Ellipse_2" data-name="Ellipse 2" class="cls-7" transform="translate(476 230)">
+              <circle class="cls-10" cx="86" cy="86" r="86"/>
+              <circle class="cls-2" cx="86" cy="86" r="85"/>
+            </g>
+          </g>
+          <g transform="translate(-390 -230)">
+            <g id="Ellipse_2-2" data-name="Ellipse 2" class="cls-7" transform="translate(476 230)">
+              <circle class="cls-10" cx="86" cy="86" r="86"/>
+              <circle class="cls-2" cx="86" cy="86" r="85"/>
+            </g>
+          </g>
+          <g transform="translate(-304 -230)">
+            <g id="Ellipse_2-3" data-name="Ellipse 2" class="cls-7" transform="translate(476 230)">
+              <circle class="cls-10" cx="86" cy="86" r="86"/>
+              <circle class="cls-2" cx="86" cy="86" r="85"/>
+            </g>
+          </g>
+          <g transform="translate(-218 -230)">
+            <g id="Ellipse_2-4" data-name="Ellipse 2" class="cls-7" transform="translate(476 230)">
+              <circle class="cls-10" cx="86" cy="86" r="86"/>
+              <circle class="cls-2" cx="86" cy="86" r="85"/>
+            </g>
+          </g>
+          <g transform="translate(-132 -230)">
+            <g id="Ellipse_2-5" data-name="Ellipse 2" class="cls-7" transform="translate(476 230)">
+              <circle class="cls-10" cx="86" cy="86" r="86"/>
+              <circle class="cls-2" cx="86" cy="86" r="85"/>
+            </g>
+          </g>
+          <g transform="translate(-46 -230)">
+            <g id="Ellipse_2-6" data-name="Ellipse 2" class="cls-7" transform="translate(476 230)">
+              <circle class="cls-10" cx="86" cy="86" r="86"/>
+              <circle class="cls-2" cx="86" cy="86" r="85"/>
+            </g>
+          </g>
+          <g transform="translate(-476 -144)">
+            <g id="Ellipse_2-7" data-name="Ellipse 2" class="cls-7" transform="translate(476 230)">
+              <circle class="cls-10" cx="86" cy="86" r="86"/>
+              <circle class="cls-2" cx="86" cy="86" r="85"/>
+            </g>
+          </g>
+          <g transform="translate(-390 -144)">
+            <g id="Ellipse_2-8" data-name="Ellipse 2" class="cls-7" transform="translate(476 230)">
+              <circle class="cls-10" cx="86" cy="86" r="86"/>
+              <circle class="cls-2" cx="86" cy="86" r="85"/>
+            </g>
+          </g>
+          <g transform="translate(-304 -144)">
+            <g id="Ellipse_2-9" data-name="Ellipse 2" class="cls-7" transform="translate(476 230)">
+              <circle class="cls-10" cx="86" cy="86" r="86"/>
+              <circle class="cls-2" cx="86" cy="86" r="85"/>
+            </g>
+          </g>
+          <g transform="translate(-218 -144)">
+            <g id="Ellipse_2-10" data-name="Ellipse 2" class="cls-7" transform="translate(476 230)">
+              <circle class="cls-10" cx="86" cy="86" r="86"/>
+              <circle class="cls-2" cx="86" cy="86" r="85"/>
+            </g>
+          </g>
+          <g transform="translate(-132 -144)">
+            <g id="Ellipse_2-11" data-name="Ellipse 2" class="cls-7" transform="translate(476 230)">
+              <circle class="cls-10" cx="86" cy="86" r="86"/>
+              <circle class="cls-2" cx="86" cy="86" r="85"/>
+            </g>
+          </g>
+          <g transform="translate(-46 -144)">
+            <g id="Ellipse_2-12" data-name="Ellipse 2" class="cls-7" transform="translate(476 230)">
+              <circle class="cls-10" cx="86" cy="86" r="86"/>
+              <circle class="cls-2" cx="86" cy="86" r="85"/>
+            </g>
+          </g>
+          <g transform="translate(-476 -58)">
+            <g id="Ellipse_2-13" data-name="Ellipse 2" class="cls-7" transform="translate(476 230)">
+              <circle class="cls-10" cx="86" cy="86" r="86"/>
+              <circle class="cls-2" cx="86" cy="86" r="85"/>
+            </g>
+          </g>
+          <g transform="translate(-390 -58)">
+            <g id="Ellipse_2-14" data-name="Ellipse 2" class="cls-7" transform="translate(476 230)">
+              <circle class="cls-10" cx="86" cy="86" r="86"/>
+              <circle class="cls-2" cx="86" cy="86" r="85"/>
+            </g>
+          </g>
+          <g transform="translate(-304 -58)">
+            <g id="Ellipse_2-15" data-name="Ellipse 2" class="cls-7" transform="translate(476 230)">
+              <circle class="cls-10" cx="86" cy="86" r="86"/>
+              <circle class="cls-2" cx="86" cy="86" r="85"/>
+            </g>
+          </g>
+          <g transform="translate(-218 -58)">
+            <g id="Ellipse_2-16" data-name="Ellipse 2" class="cls-7" transform="translate(476 230)">
+              <circle class="cls-10" cx="86" cy="86" r="86"/>
+              <circle class="cls-2" cx="86" cy="86" r="85"/>
+            </g>
+          </g>
+          <g transform="translate(-132 -58)">
+            <g id="Ellipse_2-17" data-name="Ellipse 2" class="cls-7" transform="translate(476 230)">
+              <circle class="cls-10" cx="86" cy="86" r="86"/>
+              <circle class="cls-2" cx="86" cy="86" r="85"/>
+            </g>
+          </g>
+          <g transform="translate(-46 -58)">
+            <g id="Ellipse_2-18" data-name="Ellipse 2" class="cls-7" transform="translate(476 230)">
+              <circle class="cls-10" cx="86" cy="86" r="86"/>
+              <circle class="cls-2" cx="86" cy="86" r="85"/>
+            </g>
+          </g>
+          <g transform="translate(-476 28)">
+            <g id="Ellipse_2-19" data-name="Ellipse 2" class="cls-7" transform="translate(476 230)">
+              <circle class="cls-10" cx="86" cy="86" r="86"/>
+              <circle class="cls-2" cx="86" cy="86" r="85"/>
+            </g>
+          </g>
+          <g transform="translate(-390 28)">
+            <g id="Ellipse_2-20" data-name="Ellipse 2" class="cls-7" transform="translate(476 230)">
+              <circle class="cls-10" cx="86" cy="86" r="86"/>
+              <circle class="cls-2" cx="86" cy="86" r="85"/>
+            </g>
+          </g>
+          <g transform="translate(-304 28)">
+            <g id="Ellipse_2-21" data-name="Ellipse 2" class="cls-7" transform="translate(476 230)">
+              <circle class="cls-10" cx="86" cy="86" r="86"/>
+              <circle class="cls-2" cx="86" cy="86" r="85"/>
+            </g>
+          </g>
+          <g transform="translate(-218 28)">
+            <g id="Ellipse_2-22" data-name="Ellipse 2" class="cls-7" transform="translate(476 230)">
+              <circle class="cls-10" cx="86" cy="86" r="86"/>
+              <circle class="cls-2" cx="86" cy="86" r="85"/>
+            </g>
+          </g>
+          <g transform="translate(-132 28)">
+            <g id="Ellipse_2-23" data-name="Ellipse 2" class="cls-7" transform="translate(476 230)">
+              <circle class="cls-10" cx="86" cy="86" r="86"/>
+              <circle class="cls-2" cx="86" cy="86" r="85"/>
+            </g>
+          </g>
+          <g transform="translate(-46 28)">
+            <g id="Ellipse_2-24" data-name="Ellipse 2" class="cls-7" transform="translate(476 230)">
+              <circle class="cls-10" cx="86" cy="86" r="86"/>
+              <circle class="cls-2" cx="86" cy="86" r="85"/>
+            </g>
+          </g>
+          <g transform="translate(-476 114)">
+            <g id="Ellipse_2-25" data-name="Ellipse 2" class="cls-7" transform="translate(476 230)">
+              <circle class="cls-10" cx="86" cy="86" r="86"/>
+              <circle class="cls-2" cx="86" cy="86" r="85"/>
+            </g>
+          </g>
+          <g transform="translate(-390 114)">
+            <g id="Ellipse_2-26" data-name="Ellipse 2" class="cls-7" transform="translate(476 230)">
+              <circle class="cls-10" cx="86" cy="86" r="86"/>
+              <circle class="cls-2" cx="86" cy="86" r="85"/>
+            </g>
+          </g>
+          <g transform="translate(-304 114)">
+            <g id="Ellipse_2-27" data-name="Ellipse 2" class="cls-7" transform="translate(476 230)">
+              <circle class="cls-10" cx="86" cy="86" r="86"/>
+              <circle class="cls-2" cx="86" cy="86" r="85"/>
+            </g>
+          </g>
+          <g transform="translate(-218 114)">
+            <g id="Ellipse_2-28" data-name="Ellipse 2" class="cls-7" transform="translate(476 230)">
+              <circle class="cls-10" cx="86" cy="86" r="86"/>
+              <circle class="cls-2" cx="86" cy="86" r="85"/>
+            </g>
+          </g>
+          <g transform="translate(-132 114)">
+            <g id="Ellipse_2-29" data-name="Ellipse 2" class="cls-7" transform="translate(476 230)">
+              <circle class="cls-10" cx="86" cy="86" r="86"/>
+              <circle class="cls-2" cx="86" cy="86" r="85"/>
+            </g>
+          </g>
+          <g transform="translate(-46 114)">
+            <g id="Ellipse_2-30" data-name="Ellipse 2" class="cls-7" transform="translate(476 230)">
+              <circle class="cls-10" cx="86" cy="86" r="86"/>
+              <circle class="cls-2" cx="86" cy="86" r="85"/>
+            </g>
+          </g>
+          <g transform="translate(-476 200)">
+            <g id="Ellipse_2-31" data-name="Ellipse 2" class="cls-7" transform="translate(476 230)">
+              <circle class="cls-10" cx="86" cy="86" r="86"/>
+              <circle class="cls-2" cx="86" cy="86" r="85"/>
+            </g>
+          </g>
+          <g transform="translate(-390 200)">
+            <g id="Ellipse_2-32" data-name="Ellipse 2" class="cls-7" transform="translate(476 230)">
+              <circle class="cls-10" cx="86" cy="86" r="86"/>
+              <circle class="cls-2" cx="86" cy="86" r="85"/>
+            </g>
+          </g>
+          <g transform="translate(-304 200)">
+            <g id="Ellipse_2-33" data-name="Ellipse 2" class="cls-7" transform="translate(476 230)">
+              <circle class="cls-10" cx="86" cy="86" r="86"/>
+              <circle class="cls-2" cx="86" cy="86" r="85"/>
+            </g>
+          </g>
+          <g transform="translate(-218 200)">
+            <g id="Ellipse_2-34" data-name="Ellipse 2" class="cls-7" transform="translate(476 230)">
+              <circle class="cls-10" cx="86" cy="86" r="86"/>
+              <circle class="cls-2" cx="86" cy="86" r="85"/>
+            </g>
+          </g>
+          <g transform="translate(-132 200)">
+            <g id="Ellipse_2-35" data-name="Ellipse 2" class="cls-7" transform="translate(476 230)">
+              <circle class="cls-10" cx="86" cy="86" r="86"/>
+              <circle class="cls-2" cx="86" cy="86" r="85"/>
+            </g>
+          </g>
+          <g transform="translate(-46 200)">
+            <g id="Ellipse_2-36" data-name="Ellipse 2" class="cls-7" transform="translate(476 230)">
+              <circle class="cls-10" cx="86" cy="86" r="86"/>
+              <circle class="cls-2" cx="86" cy="86" r="85"/>
+            </g>
+          </g>
+        </g>
+        <g id="Repeat_Grid_3" data-name="Repeat Grid 3" class="cls-8" transform="translate(390 230)">
+          <g transform="translate(-390 -230)">
+            <g id="Ellipse_3" data-name="Ellipse 3" class="cls-7" transform="translate(390 230)">
+              <circle class="cls-10" cx="86" cy="86" r="86"/>
+              <circle class="cls-2" cx="86" cy="86" r="85"/>
+            </g>
+          </g>
+          <g transform="translate(-390 -144)">
+            <g id="Ellipse_3-2" data-name="Ellipse 3" class="cls-7" transform="translate(390 230)">
+              <circle class="cls-10" cx="86" cy="86" r="86"/>
+              <circle class="cls-2" cx="86" cy="86" r="85"/>
+            </g>
+          </g>
+          <g transform="translate(-390 -58)">
+            <g id="Ellipse_3-3" data-name="Ellipse 3" class="cls-7" transform="translate(390 230)">
+              <circle class="cls-10" cx="86" cy="86" r="86"/>
+              <circle class="cls-2" cx="86" cy="86" r="85"/>
+            </g>
+          </g>
+          <g transform="translate(-390 28)">
+            <g id="Ellipse_3-4" data-name="Ellipse 3" class="cls-7" transform="translate(390 230)">
+              <circle class="cls-10" cx="86" cy="86" r="86"/>
+              <circle class="cls-2" cx="86" cy="86" r="85"/>
+            </g>
+          </g>
+          <g transform="translate(-390 114)">
+            <g id="Ellipse_3-5" data-name="Ellipse 3" class="cls-7" transform="translate(390 230)">
+              <circle class="cls-10" cx="86" cy="86" r="86"/>
+              <circle class="cls-2" cx="86" cy="86" r="85"/>
+            </g>
+          </g>
+          <g transform="translate(-390 200)">
+            <g id="Ellipse_3-6" data-name="Ellipse 3" class="cls-7" transform="translate(390 230)">
+              <circle class="cls-10" cx="86" cy="86" r="86"/>
+              <circle class="cls-2" cx="86" cy="86" r="85"/>
+            </g>
+          </g>
+        </g>
+        <g id="Repeat_Grid_4" data-name="Repeat Grid 4" class="cls-9" transform="translate(1078 144) rotate(90)">
+          <g transform="translate(-390 -230)">
+            <circle id="Ellipse_3-7" data-name="Ellipse 3" class="cls-7" cx="85.5" cy="85.5" r="85.5" transform="translate(390.5 230.5)"/>
+          </g>
+          <g transform="translate(-390 -144)">
+            <circle id="Ellipse_3-8" data-name="Ellipse 3" class="cls-7" cx="85.5" cy="85.5" r="85.5" transform="translate(390.5 230.5)"/>
+          </g>
+          <g transform="translate(-390 -58)">
+            <circle id="Ellipse_3-9" data-name="Ellipse 3" class="cls-7" cx="85.5" cy="85.5" r="85.5" transform="translate(390.5 230.5)"/>
+          </g>
+          <g transform="translate(-390 28)">
+            <circle id="Ellipse_3-10" data-name="Ellipse 3" class="cls-7" cx="85.5" cy="85.5" r="85.5" transform="translate(390.5 230.5)"/>
+          </g>
+          <g transform="translate(-390 114)">
+            <circle id="Ellipse_3-11" data-name="Ellipse 3" class="cls-7" cx="85.5" cy="85.5" r="85.5" transform="translate(390.5 230.5)"/>
+          </g>
+          <g transform="translate(-390 200)">
+            <circle id="Ellipse_3-12" data-name="Ellipse 3" class="cls-7" cx="85.5" cy="85.5" r="85.5" transform="translate(390.5 230.5)"/>
+          </g>
+          <g transform="translate(-390 286)">
+            <circle id="Ellipse_3-13" data-name="Ellipse 3" class="cls-7" cx="85.5" cy="85.5" r="85.5" transform="translate(390.5 230.5)"/>
+          </g>
+          <g transform="translate(-390 372)">
+            <circle id="Ellipse_3-14" data-name="Ellipse 3" class="cls-7" cx="85.5" cy="85.5" r="85.5" transform="translate(390.5 230.5)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
